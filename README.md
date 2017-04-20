@@ -1,4 +1,7 @@
-# test coverage for  [wzrd (v1.5.0)](https://github.com/maxogden/wzrd)  [![npm package](https://img.shields.io/npm/v/npmtest-wzrd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wzrd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wzrd.svg)](https://travis-ci.org/npmtest/node-npmtest-wzrd)
+# npmtest-wzrd
+
+#### basic test coverage for  [wzrd (v1.5.0)](https://github.com/maxogden/wzrd)  [![npm package](https://img.shields.io/npm/v/npmtest-wzrd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wzrd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wzrd.svg)](https://travis-ci.org/npmtest/node-npmtest-wzrd)
+
 #### Super minimal browserify development server. Inspired by [beefy](http://npmjs.org/beefy) but with less magic
 
 [![NPM](https://nodei.co/npm/wzrd.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/wzrd)
